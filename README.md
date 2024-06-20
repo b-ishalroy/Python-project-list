@@ -11,7 +11,10 @@ This repository is a compilation of multiple Python projects ranging from beginn
 1. **Project 1: Password Generator**
     - Description: simple Python code to generate complex passwords.
     - Directory: `simple_Password_Generator`
-2. **Project 2: -----Uploaded Soon-----**
+2. **Project 2: Guess Number Game**
+    - Description: simple Python code to guess the number.
+    - Directory: `simple_Number_guess_game`
+3. **Project 3: -----Uploaded Soon-----**  
 
 
 
